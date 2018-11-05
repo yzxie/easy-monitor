@@ -1,2 +1,3 @@
 # easy-monitor
-Linux web server performance monitor 
+服务器性能监控系统
+
